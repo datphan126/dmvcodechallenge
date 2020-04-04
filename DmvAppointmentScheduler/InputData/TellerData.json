@@ -1,0 +1,749 @@
+{
+  "Teller": [
+    {
+      "ID": "9001238456",
+      "SpecialtyType": "1",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238457",
+      "SpecialtyType": "1",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238458",
+      "SpecialtyType": "1",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238459",
+      "SpecialtyType": "1",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238460",
+      "SpecialtyType": "1",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238461",
+      "SpecialtyType": "1",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238462",
+      "SpecialtyType": "1",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238463",
+      "SpecialtyType": "1",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238464",
+      "SpecialtyType": "1",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238465",
+      "SpecialtyType": "1",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238466",
+      "SpecialtyType": "1",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238467",
+      "SpecialtyType": "1",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238468",
+      "SpecialtyType": "1",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238469",
+      "SpecialtyType": "1",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238470",
+      "SpecialtyType": "1",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238471",
+      "SpecialtyType": "1",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238472",
+      "SpecialtyType": "1",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238473",
+      "SpecialtyType": "1",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238474",
+      "SpecialtyType": "1",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238475",
+      "SpecialtyType": "1",
+      "Multiplier": "0.5"
+    },
+    {
+      "ID": "9001238476",
+      "SpecialtyType": "1",
+      "Multiplier": "0.5"
+    },
+    {
+      "ID": "9001238477",
+      "SpecialtyType": "1",
+      "Multiplier": "0.5"
+    },
+    {
+      "ID": "9001238478",
+      "SpecialtyType": "1",
+      "Multiplier": "0.5"
+    },
+    {
+      "ID": "9001238479",
+      "SpecialtyType": "1",
+      "Multiplier": "0.5"
+    },
+    {
+      "ID": "9001238480",
+      "SpecialtyType": "1",
+      "Multiplier": "0.5"
+    },
+    {
+      "ID": "9001238481",
+      "SpecialtyType": "1",
+      "Multiplier": "0.5"
+    },
+    {
+      "ID": "9001238482",
+      "SpecialtyType": "1",
+      "Multiplier": "0.5"
+    },
+    {
+      "ID": "9001238483",
+      "SpecialtyType": "1",
+      "Multiplier": "0.5"
+    },
+    {
+      "ID": "9001238484",
+      "SpecialtyType": "1",
+      "Multiplier": "0.5"
+    },
+    {
+      "ID": "9001238485",
+      "SpecialtyType": "2",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238486",
+      "SpecialtyType": "2",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238487",
+      "SpecialtyType": "2",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238488",
+      "SpecialtyType": "2",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238489",
+      "SpecialtyType": "2",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238490",
+      "SpecialtyType": "2",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238491",
+      "SpecialtyType": "2",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238492",
+      "SpecialtyType": "2",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238493",
+      "SpecialtyType": "2",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238494",
+      "SpecialtyType": "2",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238495",
+      "SpecialtyType": "2",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238496",
+      "SpecialtyType": "2",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238497",
+      "SpecialtyType": "2",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238498",
+      "SpecialtyType": "2",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238499",
+      "SpecialtyType": "2",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238500",
+      "SpecialtyType": "2",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238501",
+      "SpecialtyType": "2",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238502",
+      "SpecialtyType": "2",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238503",
+      "SpecialtyType": "2",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238504",
+      "SpecialtyType": "2",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238505",
+      "SpecialtyType": "2",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238506",
+      "SpecialtyType": "2",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238507",
+      "SpecialtyType": "2",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238508",
+      "SpecialtyType": "2",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238509",
+      "SpecialtyType": "2",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238510",
+      "SpecialtyType": "2",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238511",
+      "SpecialtyType": "2",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238512",
+      "SpecialtyType": "2",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238513",
+      "SpecialtyType": "2",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238514",
+      "SpecialtyType": "2",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238515",
+      "SpecialtyType": "2",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238516",
+      "SpecialtyType": "2",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238517",
+      "SpecialtyType": "2",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238518",
+      "SpecialtyType": "2",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238519",
+      "SpecialtyType": "2",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238520",
+      "SpecialtyType": "2",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238521",
+      "SpecialtyType": "2",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238522",
+      "SpecialtyType": "2",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238523",
+      "SpecialtyType": "2",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238524",
+      "SpecialtyType": "2",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238525",
+      "SpecialtyType": "2",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238526",
+      "SpecialtyType": "2",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238527",
+      "SpecialtyType": "2",
+      "Multiplier": "0.75"
+    },
+    {
+      "ID": "9001238528",
+      "SpecialtyType": "2",
+      "Multiplier": "0.5"
+    },
+    {
+      "ID": "9001238529",
+      "SpecialtyType": "2",
+      "Multiplier": "0.5"
+    },
+    {
+      "ID": "9001238530",
+      "SpecialtyType": "2",
+      "Multiplier": "0.5"
+    },
+    {
+      "ID": "9001238531",
+      "SpecialtyType": "2",
+      "Multiplier": "0.5"
+    },
+    {
+      "ID": "9001238532",
+      "SpecialtyType": "2",
+      "Multiplier": "0.5"
+    },
+    {
+      "ID": "9001238533",
+      "SpecialtyType": "2",
+      "Multiplier": "0.5"
+    },
+    {
+      "ID": "9001238534",
+      "SpecialtyType": "2",
+      "Multiplier": "0.5"
+    },
+    {
+      "ID": "9001238535",
+      "SpecialtyType": "3",
+      "Multiplier": "0.9"
+    },
+    {
+      "ID": "9001238536",
+      "SpecialtyType": "3",
+      "Multiplier": "0.9"
+    },
+    {
+      "ID": "9001238537",
+      "SpecialtyType": "3",
+      "Multiplier": "0.9"
+    },
+    {
+      "ID": "9001238538",
+      "SpecialtyType": "3",
+      "Multiplier": "0.9"
+    },
+    {
+      "ID": "9001238539",
+      "SpecialtyType": "3",
+      "Multiplier": "0.9"
+    },
+    {
+      "ID": "9001238540",
+      "SpecialtyType": "3",
+      "Multiplier": "0.9"
+    },
+    {
+      "ID": "9001238541",
+      "SpecialtyType": "3",
+      "Multiplier": "0.9"
+    },
+    {
+      "ID": "9001238542",
+      "SpecialtyType": "3",
+      "Multiplier": "0.9"
+    },
+    {
+      "ID": "9001238543",
+      "SpecialtyType": "3",
+      "Multiplier": "0.9"
+    },
+    {
+      "ID": "9001238544",
+      "SpecialtyType": "3",
+      "Multiplier": "0.9"
+    },
+    {
+      "ID": "9001238545",
+      "SpecialtyType": "3",
+      "Multiplier": "0.9"
+    },
+    {
+      "ID": "9001238546",
+      "SpecialtyType": "3",
+      "Multiplier": "0.9"
+    },
+    {
+      "ID": "9001238547",
+      "SpecialtyType": "3",
+      "Multiplier": "0.9"
+    },
+    {
+      "ID": "9001238548",
+      "SpecialtyType": "3",
+      "Multiplier": "0.9"
+    },
+    {
+      "ID": "9001238549",
+      "SpecialtyType": "3",
+      "Multiplier": "0.9"
+    },
+    {
+      "ID": "9001238550",
+      "SpecialtyType": "3",
+      "Multiplier": "0.9"
+    },
+    {
+      "ID": "9001238551",
+      "SpecialtyType": "3",
+      "Multiplier": "0.9"
+    },
+    {
+      "ID": "9001238552",
+      "SpecialtyType": "3",
+      "Multiplier": "0.9"
+    },
+    {
+      "ID": "9001238553",
+      "SpecialtyType": "3",
+      "Multiplier": "0.9"
+    },
+    {
+      "ID": "9001238554",
+      "SpecialtyType": "3",
+      "Multiplier": "0.9"
+    },
+    {
+      "ID": "9001238555",
+      "SpecialtyType": "3",
+      "Multiplier": "0.9"
+    },
+    {
+      "ID": "9001238556",
+      "SpecialtyType": "3",
+      "Multiplier": "0.9"
+    },
+    {
+      "ID": "9001238557",
+      "SpecialtyType": "3",
+      "Multiplier": "0.9"
+    },
+    {
+      "ID": "9001238558",
+      "SpecialtyType": "3",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238559",
+      "SpecialtyType": "3",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238560",
+      "SpecialtyType": "3",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238561",
+      "SpecialtyType": "3",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238562",
+      "SpecialtyType": "3",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238563",
+      "SpecialtyType": "3",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238564",
+      "SpecialtyType": "3",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238565",
+      "SpecialtyType": "3",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238566",
+      "SpecialtyType": "3",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238567",
+      "SpecialtyType": "3",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238568",
+      "SpecialtyType": "3",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238569",
+      "SpecialtyType": "3",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238570",
+      "SpecialtyType": "3",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238571",
+      "SpecialtyType": "3",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238572",
+      "SpecialtyType": "3",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238573",
+      "SpecialtyType": "3",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238574",
+      "SpecialtyType": "3",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238575",
+      "SpecialtyType": "3",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238576",
+      "SpecialtyType": "3",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238577",
+      "SpecialtyType": "3",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238578",
+      "SpecialtyType": "3",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238579",
+      "SpecialtyType": "3",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238580",
+      "SpecialtyType": "3",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238581",
+      "SpecialtyType": "3",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238582",
+      "SpecialtyType": "3",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238583",
+      "SpecialtyType": "3",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238584",
+      "SpecialtyType": "3",
+      "Multiplier": "0.8"
+    },
+    {
+      "ID": "9001238585",
+      "SpecialtyType": "0",
+      "Multiplier": "1"
+    },
+    {
+      "ID": "9001238586",
+      "SpecialtyType": "0",
+      "Multiplier": "1"
+    },
+    {
+      "ID": "9001238587",
+      "SpecialtyType": "0",
+      "Multiplier": "1"
+    },
+    {
+      "ID": "9001238588",
+      "SpecialtyType": "0",
+      "Multiplier": "1"
+    },
+    {
+      "ID": "9001238589",
+      "SpecialtyType": "0",
+      "Multiplier": "1"
+    },
+    {
+      "ID": "9001238590",
+      "SpecialtyType": "0",
+      "Multiplier": "1"
+    },
+    {
+      "ID": "9001238591",
+      "SpecialtyType": "0",
+      "Multiplier": "1"
+    },
+    {
+      "ID": "9001238592",
+      "SpecialtyType": "0",
+      "Multiplier": "1"
+    },
+    {
+      "ID": "9001238593",
+      "SpecialtyType": "0",
+      "Multiplier": "1"
+    },
+    {
+      "ID": "9001238594",
+      "SpecialtyType": "0",
+      "Multiplier": "1"
+    },
+    {
+      "ID": "9001238595",
+      "SpecialtyType": "0",
+      "Multiplier": "1"
+    },
+    {
+      "ID": "9001238596",
+      "SpecialtyType": "0",
+      "Multiplier": "1"
+    },
+    {
+      "ID": "9001238597",
+      "SpecialtyType": "0",
+      "Multiplier": "1"
+    },
+    {
+      "ID": "9001238598",
+      "SpecialtyType": "0",
+      "Multiplier": "1"
+    },
+    {
+      "ID": "9001238599",
+      "SpecialtyType": "0",
+      "Multiplier": "1"
+    },
+    {
+      "ID": "9001238600",
+      "SpecialtyType": "0",
+      "Multiplier": "1"
+    },
+    {
+      "ID": "9001238601",
+      "SpecialtyType": "0",
+      "Multiplier": "1"
+    },
+    {
+      "ID": "9001238602",
+      "SpecialtyType": "0",
+      "Multiplier": "1"
+    },
+    {
+      "ID": "9001238603",
+      "SpecialtyType": "0",
+      "Multiplier": "1"
+    },
+    {
+      "ID": "9001238604",
+      "SpecialtyType": "0",
+      "Multiplier": "1"
+    }
+  ]
+}
