@@ -31,11 +31,4 @@ Your mission, if you choose to accept, is to create a more effecient algothrim t
 
 We want to try to process all customers and have our tellers go home as early as possible. All the tellers will leave together once the last customer has been processed. Therefore, your results will **NOT** be measured according to the total number of time the tellers spend with customers but when the last customer is processed.
 
-**Submission**
-
-Create a git repository with your solution and resume.Then please email us a read access link to RigsentryCodeChallenge@gmail.com.
-
-Thank you and good luck!
-
-NOV Rigsentry Team
 
